@@ -1,0 +1,37 @@
+{
+  "assets": [
+    {
+      "required": 1,
+      "title": {
+        "text": "Nexxen is a DSP",
+        "len": 15
+      }
+    },
+    {
+      "link": {
+        "url": "www.nexxen.com"
+      }
+    },
+    {
+      "required": 1,
+      "data": {
+        "value": "Nexxen",
+        "type": 1
+      }
+    },
+    {
+      "required": 1,
+      "data": {
+        "value": "Nexxen is Best",
+        "type": 2,
+        "len": 19
+      }
+    },
+        {
+      "img": {
+        "type": 3,
+        "url": "https://raw.githubusercontent.com/nedblaine-bit/stvndco/refs/heads/main/tcl.png"
+      }
+    }
+  ]
+}
